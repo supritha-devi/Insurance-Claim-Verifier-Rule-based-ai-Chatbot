@@ -4,6 +4,11 @@
 
 This is a consistency checker, not a fraud detector or an automated final decision-maker. A human claims officer must review the evidence and make the final decision.
 
+
+##Live Demo
+
+https://supritha-devi.github.io/Insurance-Claim-Verifier-Rule-based-ai-Chatbot/
+
 ## Run the web application
 
 The web app is static HTML, CSS, and JavaScript. It has no server, build step, package installation, database, or online API.
