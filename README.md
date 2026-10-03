@@ -37,7 +37,7 @@ Example injury files are available in `sample_data/`; load `injury_clean.json` f
 
 Evidence files selected in the guided flow are not uploaded or saved. The app uses the selection only to record whether a file was provided. It does not inspect document content or image content. Photo dates and whether GPS matches can be entered as visible metadata; this static browser prototype does not read EXIF/GPS data itself.
 
-## Syllabus concepts demonstrated
+## concepts demonstrated
 
 - **Knowledge base:** numbered, explicit policy and consistency rules.
 - **Facts and propositional/first-order logic:** structured answers are represented as facts (for example, `Damage(Front)` and `Repaired(Rear)`) and compared by rules.
