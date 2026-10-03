@@ -1,0 +1,11 @@
+{
+  "claim_type": "injury",
+  "accident_date": "28-09-2026",
+  "hospital_admission_date": "01-10-2026",
+  "claimant_injury": "head injury",
+  "hospital_report_injury": "leg fracture",
+  "days_stayed": 15,
+  "claim_amount": 250000,
+  "policy_start_date": "26-09-2026",
+  "hospital_bill_attached": "no"
+}
